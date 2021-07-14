@@ -1,5 +1,5 @@
 # LCReco
-[![Build Status](https://travis-ci.org/PandoraPFA/LCReco.svg?branch=master)](https://travis-ci.org/PandoraPFA/LCReco)
+[![Build Status](https://travis-ci.com/PandoraPFA/LCReco.svg?branch=master)](https://travis-ci.com/PandoraPFA/LCReco)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/13059/badge.svg)](https://scan.coverity.com/projects/pandorapfa-lcreco)
 
 Standalone Pandora application for testing/developing Linear Collider reconstruction
